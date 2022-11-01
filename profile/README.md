@@ -1,12 +1,12 @@
-## Hi there 👋
+## Welcome to Sasebo Tech's Repository 👋
 
-<!--
+![screenshot](https://res.cloudinary.com/shinkirin/image/upload/v1667264719/sasebo-tech/sasebotech-logo.png)
 
-**Here are some ideas to get you started:**
+## Info
+🙋‍♀️ We are focusing on SvelteKit + Headless Wordpress integrations. Our current projects focus on educational technology with a couple food and beverages projects.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Current Projects
+- EFL Monster.
+- TEFL Monster.
+- Aly's Coffee.
+- KiddySTEM.
