@@ -10,3 +10,6 @@
 - TEFL Monster.
 - Aly's Coffee.
 - KiddySTEM.
+
+## Private Repositories
+I apologize for keeping my project repositories private. I had an entire project "scraped" when my previous client/friend decided he did not want to pay for my work. 
