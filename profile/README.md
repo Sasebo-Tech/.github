@@ -10,7 +10,7 @@ URLs: [https://sasebotech.com](https://sasebotech.com) / [https://sasebo.tech](h
 🙋‍♀️ We are startup focusing on projectst that integrate SvelteKit and headless Headless Wordpress. Our projects focus on education (Edtech), nongovernmental and charitable organizations, and small-to-medium businesses. We also focus on F&B.
 
 ### Contact
-We can be emailed at: [info@sasebo.tech](info@sasebo.tech).
+We can be emailed at: <info@sasebo.tech>.
 
 ### Current Projects
 - EFL Monster.
@@ -21,7 +21,7 @@ We can be emailed at: [info@sasebo.tech](info@sasebo.tech).
 - Kerala Fund.
 
 ## Hosting
-- [Vercel]((https://vercel.com/sasebo) - For the majority of SvelteKit framework projects.
+- [Vercel](https://vercel.com/sasebo) - For the majority of SvelteKit framework projects.
 - [Cloudflare Pages](https://pages.cloudflare.com/) - For Astro framework projects. 
 - [Linode](https://linode.com) - For Ghost blog installations and other static sites.
 - [Namecheap](https://namecheap.com) - Headless WordPress Ledge projects. 
