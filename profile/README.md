@@ -1,5 +1,5 @@
 ## Welcome to Sasebo Tech's Github Repository 👋
-### Making Innovation Achieveable
+### Making Innovation Achievable
 
 ![screenshot](https://res.cloudinary.com/shinkirin/image/upload/v1668185744/sasebo-tech/og-3.webp)
 
