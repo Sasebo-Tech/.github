@@ -16,9 +16,10 @@ We can be emailed at: <info@sasebo.tech>.
 - EFL Monster.
 - TEFL Monster.
 - KiddySTEM.
-- Aly's Coffee.
+- [Aly's Coffee](https://alys.coffee.
 - SHINNIPPON.
-- Kerala Fund.
+- [Kerala Fund](https://keralafund.org).
+- InnoIslam.
 
 ## Hosting
 - [Vercel](https://vercel.com/sasebo) - For the majority of SvelteKit framework projects.
