@@ -23,9 +23,11 @@ We can be emailed at: <info@sasebo.tech>.
 
 ## Hosting
 - [Vercel](https://vercel.com/sasebo) - For the majority of SvelteKit framework projects.
-- [Cloudflare Pages](https://pages.cloudflare.com/) - For Astro framework projects. 
+- [Cloudflare Pages](https://pages.cloudflare.com/) - For Astro framework projects.
+- [Cloudinary](https://cloudinary.com) - Images hosting.
 - [Linode](https://linode.com) - For Ghost blog installations and other static sites.
-- [Namecheap](https://namecheap.com) - Headless WordPress Ledge projects. 
+- [Namecheap](https://namecheap.com) - Headless WordPress Ledge projects and content hosting. 
+- [Hygraph](https://hygraph.com) - Headless GraphQL CMS.
 
 ### DNS
 We will use [Cloudflare](https://cloudflare.com/) as our main DNS.
