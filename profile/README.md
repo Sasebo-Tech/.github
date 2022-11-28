@@ -16,7 +16,7 @@ We can be emailed at: <info@sasebo.tech>.
 - EFL Monster.
 - TEFL Monster.
 - KiddySTEM.
-- [Aly's Coffee](https://alys.coffee.
+- [Aly's Coffee](https://alys.coffee).
 - SHINNIPPON.
 - [Kerala Fund](https://keralafund.org).
 - InnoIslam.
