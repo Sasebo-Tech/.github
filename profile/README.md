@@ -19,7 +19,7 @@ We can be emailed at: <info@sasebo.tech>.
 - [Aly's Coffee](https://alys.coffee).
 - SHINNIPPON.
 - [Kerala Fund](https://keralafund.org).
-- InnoIslam.
+- [InnoIslam](https://innoislam.com) - Collaboration with Dr. Salim Ayduz.
 
 ## Hosting
 - [Vercel](https://vercel.com/sasebo) - For the majority of SvelteKit framework projects.
@@ -35,4 +35,3 @@ We will use [Cloudflare](https://cloudflare.com/) as our main DNS.
 ## Repository Visibility
 - Projects that use [TailwindUI](https://tailwindui.com) will be private due to licensing requirements.
 - Projects that use [DailyUI](daisyui.com) and/or vanilla [Tailwind CSS](https://tailwindcss.com) will be public.
-- All Kerala Fund software, except for the website that uses TailwindUI, will be public.
