@@ -20,6 +20,7 @@ We can be emailed at: <info@sasebo.tech>.
 - SHINNIPPON.
 - [Kerala Fund](https://keralafund.org).
 - [InnoIslam](https://innoislam.com) - Collaboration with Dr. Salim Ayduz.
+- [FitTrend](https://fittrend.dev).
 
 ## Hosting
 - [Vercel](https://vercel.com/sasebo) - For the majority of SvelteKit framework projects.
