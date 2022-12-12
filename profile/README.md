@@ -4,10 +4,13 @@
 ![screenshot](https://res.cloudinary.com/shinkirin/image/upload/v1668185744/sasebo-tech/og-3.webp)
 
 ## Website
-URLs: [https://sasebotech.com](https://sasebotech.com) / [https://sasebo.tech](https://sasebo.tech) / [https://nippon.dev](https://nippon.dev).
+URLs: [https://sasebotech.com](https://sasebotech.com) / [https://sasebo.tech](https://sasebo.tech).
 
 ## Info
 🙋‍♀️ We are startup focusing on projectst that integrate SvelteKit and headless CMSs (Headless Wordpress or Hygraph). Our projects focus on education (Edtech), nongovernmental and charitable organizations, and small-to-medium businesses. We also focus on F&B.
+
+### Startup Accelerator
+We will be entering a startup accelerator for the Shinkirin project in 2023.
 
 ### Contact
 We can be emailed at: <info@sasebo.tech>.
