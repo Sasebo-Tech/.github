@@ -7,7 +7,7 @@
 URLs: [https://sasebotech.com](https://sasebotech.com) / [https://sasebo.tech](https://sasebo.tech) / [https://nippon.dev](https://nippon.dev).
 
 ## Info
-🙋‍♀️ We are startup focusing on projectst that integrate SvelteKit and headless Headless Wordpress. Our projects focus on education (Edtech), nongovernmental and charitable organizations, and small-to-medium businesses. We also focus on F&B.
+🙋‍♀️ We are startup focusing on projectst that integrate SvelteKit and headless CMSs (Headless Wordpress or Hygraph). Our projects focus on education (Edtech), nongovernmental and charitable organizations, and small-to-medium businesses. We also focus on F&B.
 
 ### Contact
 We can be emailed at: <info@sasebo.tech>.
