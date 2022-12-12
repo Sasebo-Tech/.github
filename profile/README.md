@@ -13,14 +13,16 @@ URLs: [https://sasebotech.com](https://sasebotech.com) / [https://sasebo.tech](h
 We can be emailed at: <info@sasebo.tech>.
 
 ### Current Projects
+- [FitTrend](https://fittrend.dev) - Startup accelerator project.
+- [Aly's Coffee](https://alys.coffee).
+- [InnoIslam](https://innoislam.com) - Collaboration with Dr. Salim Ayduz.
+- [Kerala Fund](https://keralafund.org) - Charity project.
+
+### Future Projects
 - EFL Monster.
 - TEFL Monster.
 - KiddySTEM.
-- [Aly's Coffee](https://alys.coffee).
 - SHINNIPPON.
-- [Kerala Fund](https://keralafund.org).
-- [InnoIslam](https://innoislam.com) - Collaboration with Dr. Salim Ayduz.
-- [FitTrend](https://fittrend.dev).
 
 ## Hosting
 - [Vercel](https://vercel.com/sasebo) - For the majority of SvelteKit framework projects.
@@ -29,6 +31,7 @@ We can be emailed at: <info@sasebo.tech>.
 - [Linode](https://linode.com) - For Ghost blog installations and other static sites.
 - [Namecheap](https://namecheap.com) - Headless WordPress Ledge projects and content hosting. 
 - [Hygraph](https://hygraph.com) - Headless GraphQL CMS.
+- [Supabase](https://supabase.com) - Database and Authentication.
 
 ### DNS
 We will use [Cloudflare](https://cloudflare.com/) as our main DNS.
