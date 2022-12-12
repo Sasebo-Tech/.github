@@ -25,7 +25,7 @@ We can be emailed at: <info@sasebo.tech>.
 - SHINNIPPON.
 
 ## Hosting
-- [Vercel](https://vercel.com/sasebo) - For the majority of SvelteKit framework projects.
+- [Vercel](https://vercel.com/sasebo) - For the majority of Next.js and SvelteKit framework projects.
 - [Cloudflare Pages](https://pages.cloudflare.com/) - For Astro framework projects.
 - [Cloudinary](https://cloudinary.com) - Images hosting.
 - [Linode](https://linode.com) - For Ghost blog installations and other static sites.
