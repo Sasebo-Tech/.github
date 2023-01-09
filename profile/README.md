@@ -15,18 +15,12 @@ We will be entering a startup accelerator for the Shinkirin project in 2023.
 ### Contact
 We can be emailed at: <info@sasebo.tech>.
 
-### Current Projects
+### Projects
 - [FitTrend](https://fittrend.dev) - Testing for Shinkirin.
 - [Shinkirin](https://shinkirin.com) - Accelerator startup project.
 - [Aly's Coffee](https://alys.coffee).
 - [InnoIslam](https://innoislam.com) - Collaboration with Dr. Salim Ayduz.
 - [Kerala Fund](https://keralafund.org) - Charity project.
-
-### Future Projects
-- EFL Monster.
-- TEFL Monster.
-- KiddySTEM.
-- SHINNIPPON.
 
 ## Hosting
 - [Vercel](https://vercel.com/sasebo) - For the majority of Next.js and SvelteKit framework projects.
