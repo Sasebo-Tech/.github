@@ -9,27 +9,20 @@ URLs: [https://sasebotech.com](https://sasebotech.com) / [https://sasebo.tech](h
 ## Info
 🙋‍♀️ We are startup focusing on projectst that integrate SvelteKit and headless CMSs (Headless Wordpress or Hygraph). Our projects focus on education (Edtech), nongovernmental and charitable organizations, and small-to-medium businesses. We also focus on F&B.
 
-### Startup Accelerator
-We will be entering a startup accelerator for the Shinkirin project in 2023.
-
 ### Contact
 We can be emailed at: <info@sasebo.tech>.
 
 ### Projects
-- [FitTrend](https://fittrend.dev) - Testing for Shinkirin.
-- [Shinkirin](https://shinkirin.com) - Accelerator startup project.
-- [Aly's Coffee](https://alys.coffee).
+- [FitTrend](https://fittrend.dev) - Testing for Astro, Svelte, and D3 integration.
 - [InnoIslam](https://innoislam.com) - Collaboration with Dr. Salim Ayduz.
-- [Kerala Fund](https://keralafund.org) - Charity project.
 
 ## Hosting
 - [Vercel](https://vercel.com/sasebo) - For the majority of Next.js and SvelteKit framework projects.
 - [Cloudflare Pages](https://pages.cloudflare.com/) - For Astro framework projects.
 - [Cloudinary](https://cloudinary.com) - Images hosting.
-- [Linode](https://linode.com) - For Ghost blog installations and other static sites.
+- [Linode](https://linode.com) - For Ghost blog installations and headless [WordPress](https://wordpress.org) installs.
 - [Namecheap](https://namecheap.com) - Headless WordPress Ledge projects and content hosting. 
 - [Hygraph](https://hygraph.com) - Headless GraphQL CMS.
-- [Supabase](https://supabase.com) - Database and Authentication.
 
 ### DNS
 We will use [Cloudflare](https://cloudflare.com/) as our main DNS.
